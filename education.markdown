@@ -4,4 +4,6 @@
 ## Bachelor’s Degree in Social work - University of Benin, Nigeria (2019 - 2025)
 - **GPA:** 3.8/4.0
 
-[Back to Home](index.markdown)
+[Home](index.md)
+[Employment](employment.md)
+[contact](contact.md)
