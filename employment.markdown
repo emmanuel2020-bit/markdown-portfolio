@@ -2,4 +2,7 @@
 
 i am new in web development and currently still learning 
 
-[Back to Home](index.markdown)
+[Home](index.md)
+[Employment](employment.md)
+[education](education.md)
+[contact](contact.md)
