@@ -6,4 +6,8 @@ You can reach me through:
 - [LinkedIn](https://www.linkedin.com/in/emmanuel-inebode-867199306/)
 - [Discord](https://discord.com/channels/@me)
 
-[Back to Home](index.markdown)
+[Home](index.md)
+[Employment](employment.md)
+[education](education.md)
+
+
