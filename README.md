@@ -12,9 +12,6 @@ This project is part of my web development journey. It contains:
 - **Education**: My academic background.
 - **Contact**: Links to my social profiles.
 - 
-## 🖼️ Screenshot
-![Portfolio Screenshot](https://via.placeholder.com/800x400.png?text=Coming+Soon)
-
 
 ## ⚠️ Note
 This project is a work in progress. I will be updating it with more projects and details as I continue learning!
