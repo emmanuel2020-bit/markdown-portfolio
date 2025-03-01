@@ -11,7 +11,7 @@ This project is part of my web development journey. It contains:
 - **Employment**: My work experience.
 - **Education**: My academic background.
 - **Contact**: Links to my social profiles.
-- 
+  
 
 ## ⚠️ Note
 This project is a work in progress. I will be updating it with more projects and details as I continue learning!
